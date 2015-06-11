@@ -1,9 +1,4 @@
 <html>
-<!--
-Name: Suriyaraj Dhanasekaran
-Student Number: 87500147
-Lab2 Socket Programming
--->
     <head>
         <title>Client</title>
     </head>
